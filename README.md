@@ -1,4 +1,4 @@
-![alt text](https://github.com/init0root/Candy-Prizedraw/tree/main/src/source.png?raw=true)
+![alt text](https://raw.githubusercontent.com/init0root/Candy-Prizedraw/main/src/source.png)
 
 # Candy Prizedraw
 ## Um sorteador simples.✨
