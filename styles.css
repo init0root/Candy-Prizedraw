@@ -1,0 +1,78 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: bold;
+}
+
+body{
+	background-color: #f8ede3;
+}
+
+@font-face{
+	font-family: 'bold';
+	src: url("src/OpenSans-ExtraBold.ttf");
+}
+
+.main{
+	text-align: center;
+	display: block;
+}
+
+li{
+	list-style-type: none;
+}
+
+a{
+	text-decoration: none;
+	color: #a2b29f;
+}
+
+
+.sub_main{
+	overflow: hidden;
+	margin: 90px auto;
+	width: 80%;
+	border-radius: 5px;
+	height: 38px;
+	background-color:  #a2b29f;
+}
+
+#sort{
+	border-style: none;
+	color: white;
+	height: 35px;
+	width: 60%;
+	background-color: #a2b29f;
+	margin-top: 2px;
+	margin-left: 5px;
+	float: left;
+}
+
+#button{
+	margin-top: 4px;
+	float: right;
+	margin-right: 7px;
+	background-color: #f39189;
+	border-style: none;
+	height: 30px;
+	width:  55px;
+	border-radius: 3px;
+	color: white;
+}
+
+p{
+	color: #f39189;
+}
+
+#add_user{
+	display: block;
+	margin: auto;
+	border-style: none;
+	background-color: #f39189;
+	height: 30px;
+	width: 51%;
+	border-radius: 5px;
+	color: white;
+
+}
